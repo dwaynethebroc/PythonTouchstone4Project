@@ -1,0 +1,62 @@
+{
+  "A1": {
+    "name": "Coca-Cola",
+    "price": 2.50,
+    "quantity": 10,
+    "type": "drink"
+  },
+  "A2": {
+    "name": "Pepsi",
+    "price": 2.50,
+    "quantity": 8,
+    "type": "drink"
+},
+  "A3": {
+    "name": "Orange Juice",
+    "price": 3.00,
+    "quantity": 6,
+    "type": "drink"
+},
+  "A4": {
+    "name": "Bottled Water",
+    "price": 1.50,
+    "quantity": 15,
+    "type": "drink"
+  },
+  "A5": {
+    "name": "Iced Tea",
+    "price": 2.75,
+    "quantity": 7,
+    "type": "drink"
+},
+  "B1": {
+    "name": "Chips",
+    "price": 1.75,
+    "quantity": 12,
+    "type": "food"
+  },
+  "B2": {
+    "name": "Chocolate Bar",
+    "price": 2.00,
+    "quantity": 10,
+    "type": "food"
+  },
+  "B3": {
+    "name": "Granola Bar",
+    "price": 1.50,
+    "quantity": 9,
+    "type": "food"
+  },
+  "B4": {
+    "name": "Gummies",
+    "price": 2.25,
+    "quantity": 5,
+    "type": "food"
+  },
+  "B5": {
+    "name": "Trail Mix",
+    "price": 2.75,
+    "quantity": 4,
+    "type": "food"
+  }
+}
